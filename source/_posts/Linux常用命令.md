@@ -1,5 +1,6 @@
 ---
 title: Linux常用命令
+abbrlink: 48230
 ---
 
 # 关机/重启/注销
