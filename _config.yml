@@ -4,9 +4,9 @@
 
 # Site
 title: 'amasne'
-subtitle: ''
+subtitle: 'Blog'
 description: 'web前端 | JavaScript | NodeJS | TypeScript'
-keywords:
+keywords: 'JavaScript NodeJS TypeScript Synology Qnap Nas'
 author: 'Alex Liu'
 language: 'zh-CN'
 timezone: 'Asia/Shanghai'
@@ -265,4 +265,4 @@ live2d:
   mobile:
     show: false
   react:
-    opacity: 0.7
+    opacity: 0.9
