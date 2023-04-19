@@ -117,9 +117,9 @@ theme_config:
     url: 'https://evina.com.cn'
   style:
     primary_color: '#27bdfc'
-    logo: https://hexo.io/icon/mstile-144x144.png
-    favicon: https://hexo.io/icon/mstile-144x144.png
-    avatar: https://hexo.io/icon/mstile-144x144.png
+    logo: https://pic.imgdb.cn/item/643f6b000d2dde5777a5c838.png
+    favicon: https://pic.imgdb.cn/item/643f6b000d2dde5777a5c838.png
+    avatar: https://pic.imgdb.cn/item/643f6b550d2dde5777a61028.webp
     font_size:
     font_family:
     hover:
