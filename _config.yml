@@ -117,7 +117,7 @@ theme: 'keep'
 theme_config:
   base_info:
     title: 'evina'
-    author: 'Alex Liu'
+    author: 'Alex'
     url: 'https://evina.com.cn'
   style:
     primary_color: '#27bdfc'
@@ -133,7 +133,7 @@ theme_config:
       enable: true
       header_transparent: true
       background_img: /images/bg.svg
-      description: 黄色的森林分出两条路 || 我选择人迹更少的那一条，从此决定我一生的道路。
+      description: 是金子总会发光，你这块玻璃渣子只会反光。
       font_color:
       hitokoto: false
     scroll:
