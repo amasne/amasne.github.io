@@ -117,12 +117,13 @@ theme: 'keep'
 theme_config:
   base_info:
     title: 'evina'
+    subtitle: 'Blog'
     author: 'Alex'
     url: 'https://evina.com.cn'
   style:
     primary_color: '#27bdfc'
-    logo: https://pic.imgdb.cn/item/643f6b000d2dde5777a5c838.png
-    favicon: https://pic.imgdb.cn/item/643f6b000d2dde5777a5c838.png
+    logo: https://pic1.imgdb.cn/item/6444e5470d2dde5777924cc7.png
+    favicon: https://pic1.imgdb.cn/item/6444e5470d2dde5777924cc7.png
     avatar: https://pic.imgdb.cn/item/643f6b550d2dde5777a61028.webp
     font_size:
     font_family:
@@ -133,7 +134,7 @@ theme_config:
       enable: true
       header_transparent: true
       background_img: /images/bg.svg
-      description: 是金子总会发光，你这块玻璃渣子只会反光。
+      description: 人生不能像做菜，把所有的材料都准备好了才下锅。
       font_color:
       hitokoto: false
     scroll:

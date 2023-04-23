@@ -1,5 +1,7 @@
 ---
 title: Linux常用命令
+categories: Linux
+comment: true
 abbrlink: 48230
 ---
 
