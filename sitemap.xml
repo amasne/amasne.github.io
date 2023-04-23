@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://evina.com.cn/categories/index.html</loc>
+    
+    <lastmod>2023-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://evina.com.cn/posts/48230.html</loc>
     
-    <lastmod>2023-04-20</lastmod>
+    <lastmod>2023-04-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,25 +22,7 @@
   <url>
     <loc>https://evina.com.cn/about/index.html</loc>
     
-    <lastmod>2023-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://evina.com.cn/archives/index.html</loc>
-    
-    <lastmod>2023-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://evina.com.cn/categories/index.html</loc>
-    
-    <lastmod>2023-04-20</lastmod>
+    <lastmod>2023-04-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,12 +31,19 @@
 
   <url>
     <loc>https://evina.com.cn/</loc>
-    <lastmod>2023-04-20</lastmod>
+    <lastmod>2023-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://evina.com.cn/categories/Linux/</loc>
+    <lastmod>2023-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
