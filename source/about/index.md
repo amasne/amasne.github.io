@@ -25,13 +25,4 @@ date: 2020-03-19 14:59:53
 -   ✍️ 写作和分享
 -   🎮 游戏
 
-### 联系方式
-
-欢迎通过以下方式与我联系：
-
--   Email: amasne@126.com
--   GitHub: [@amasne](https://github.com/amasne)
-
----
-
 > 持续学习，不断进步
