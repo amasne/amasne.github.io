@@ -1,0 +1,12 @@
+/* 隐藏页脚的 "由 Hexo 驱动" 和 "主题 Keep" 信息 */
+.theme-info {
+    display: none !important;
+}
+
+/* 如果需要保留版权年份，可以只隐藏powered-by部分 */
+/* 取消下面的注释来启用选择性隐藏 */
+/*
+.footer-info-container .footer-info .info-item:nth-child(2) {
+  display: none !important;
+}
+*/

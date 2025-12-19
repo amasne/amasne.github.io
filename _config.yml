@@ -223,7 +223,7 @@ theme_config:
     since: 2020
     icp:
     site_deploy:
-      enable: true
+      enable: false
       provider: github # github | vercel | netlify | gitee | aliyun | tencent_cloud | upyun
       url:
 
