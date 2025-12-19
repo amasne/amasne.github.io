@@ -44,6 +44,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+use_date_for_updated: true  # 使用 front matter 中的 date，避免文件修改导致时间线混乱
 highlight:
   enable: true
   line_number: true
