@@ -44,7 +44,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-use_date_for_updated: true  # 使用 front matter 中的 date，避免文件修改导致时间线混乱
+
 highlight:
   enable: true
   line_number: true
@@ -83,7 +83,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: 'date'  # 使用 date 而不是 mtime，避免文件修改导致时间线混乱
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -106,6 +106,13 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
