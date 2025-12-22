@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap位置
+Sitemap: https://evina.com.cn/sitemap.xml
+
+# 禁止抓取静态资源目录
+Disallow: /css/
+Disallow: /js/
+Disallow: /font/
+Disallow: /live2dw/
+
+# 禁止抓取搜索页面
+Disallow: /search/
+
+# 允许抓取图片
+Allow: /images/
+
+# 针对百度爬虫的特殊设置
+User-agent: Baiduspider
+Allow: /
+Sitemap: https://evina.com.cn/sitemap.xml
