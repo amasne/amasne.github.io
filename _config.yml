@@ -113,6 +113,8 @@ sitemap:
   rel: false
   tags: true
   categories: true
+  # 自定义日期格式为ISO 8601
+  dateFormatter: 'YYYY-MM-DDTHH:mm:ssZ'
 baidusitemap:
   path: baidusitemap.xml
 
